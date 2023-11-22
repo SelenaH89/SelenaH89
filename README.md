@@ -1,16 +1,13 @@
-### Hi there 👋
+### Servus & Hi there 👋 my name is Selena
 
-<!--
-**SelenaH89/SelenaH89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning @UpLeveled in Vienna/AUT to become a Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- 💬 Ask me about react.js, javascript, node.js,expo, postgres, next.js,react native, css3,html5,postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: sellena17@gmail.com
+- 😄 Pronouns: she/her
+
+- ⚡ Fun fact: A while back, my brother handed me a book called 'Python for Beginners.' As a proud Biology grad, I assumed it was a charming guide to snake handling. Imagine my shock when I finally peeked inside and found no snakes, just codes! Turns out, it's about programming, not pythons! Who knew? Swapping scales for syntax, I discovered programming is actually more enthralling than the reptiles I studied. A hilarious twist to my educational journey 😂"
